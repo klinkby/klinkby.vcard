@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Klinkby.VCard</id>
+    <version>1.0.0.0</version>
+    <title>Klinkby.VCard</title>
+    <authors>Mads Breusch Klinkby</authors>
+    <summary>VCARD calendar event serializer</summary>
+    <description>VCARD calendar event serializer</description>
+    <copyright>MIT license</copyright>
+    <licenseUrl>https://raw.githubusercontent.com/klinkby/klinkby.vcard/master/license.txt</licenseUrl>
+    <tags>klinkby vcard serializer</tags>
+  </metadata>
+  <files>
+    <file src="bin\release\klinkby.VCard.dll" target="lib\net451\klinkby.VCard.dll"/>
+    <file src="bin\release\klinkby.VCard.pdb" target="lib\net451\klinkby.VCard.pdb"/>
+    <file src="bin\release\klinkby.VCard.xml" target="lib\net451\klinkby.VCard.xml"/>
+  </files>
+</package>
