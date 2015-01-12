@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 
 [assembly: AssemblyCompany("Mads Klinkby")]
 [assembly: AssemblyProduct("Klinkby")]
-[assembly: AssemblyCopyright("Copyright © Mads Breusch Klinkby 2011-2014")]
+[assembly: AssemblyCopyright("Copyright © Mads Breusch Klinkby 2011-2015")]
 [assembly: NeutralResourcesLanguage("en-US")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]

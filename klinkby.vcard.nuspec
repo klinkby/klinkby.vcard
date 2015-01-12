@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>Klinkby.VCard</id>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
     <title>Klinkby.VCard</title>
     <authors>Mads Breusch Klinkby</authors>
     <summary>VCARD calendar event serializer</summary>
