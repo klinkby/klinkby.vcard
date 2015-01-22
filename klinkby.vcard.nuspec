@@ -2,12 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>Klinkby.VCard</id>
-    <version>1.0.2.0</version>
+    <version>1.0.2.1</version>
     <title>Klinkby.VCard</title>
     <authors>Mads Breusch Klinkby</authors>
     <summary>VCARD calendar event serializer</summary>
     <description>VCARD calendar event serializer (Portable).</description>
     <copyright>MIT license</copyright>
+    <projectUrl>https://github.com/klinkby/klinkby.vcard</projectUrl>
     <licenseUrl>https://raw.githubusercontent.com/klinkby/klinkby.vcard/master/license.txt</licenseUrl>
     <tags>klinkby vcard serializer</tags>
   </metadata>
