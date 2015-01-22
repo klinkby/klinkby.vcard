@@ -2,18 +2,19 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>Klinkby.VCard</id>
-    <version>1.0.1.0</version>
+    <version>1.0.2.0</version>
     <title>Klinkby.VCard</title>
     <authors>Mads Breusch Klinkby</authors>
     <summary>VCARD calendar event serializer</summary>
-    <description>VCARD calendar event serializer</description>
+    <description>VCARD calendar event serializer (Portable).</description>
     <copyright>MIT license</copyright>
     <licenseUrl>https://raw.githubusercontent.com/klinkby/klinkby.vcard/master/license.txt</licenseUrl>
     <tags>klinkby vcard serializer</tags>
   </metadata>
   <files>
-    <file src="bin\release\klinkby.VCard.dll" target="lib\net452\klinkby.VCard.dll"/>
-    <file src="bin\release\klinkby.VCard.pdb" target="lib\net452\klinkby.VCard.pdb"/>
-    <file src="bin\release\klinkby.VCard.xml" target="lib\net452\klinkby.VCard.xml"/>
+    <!-- Profile328 .NET Portable Subset (.NET Framework 4, Silverlight 5, Windows 8, Windows Phone 8.1, Windows Phone Silverlight 8) -->
+    <file src="bin\release\klinkby.VCard.dll" target="lib\portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\klinkby.VCard.dll"/>
+    <file src="bin\release\klinkby.VCard.pdb" target="lib\portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\klinkby.VCard.pdb"/>
+    <file src="bin\release\klinkby.VCard.xml" target="lib\portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\klinkby.VCard.xml"/>
   </files>
 </package>
